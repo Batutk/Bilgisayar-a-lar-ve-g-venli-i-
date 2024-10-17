@@ -1,2 +1,2 @@
-# Bilgisayar-a-lar-ve-g-venli-i-
+# Bilgisayar_aglari_ve_guvenliği
 Bilgisayar ağları ve güvenliği
